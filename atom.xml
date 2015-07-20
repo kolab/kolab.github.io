@@ -4,7 +4,7 @@
   <title><![CDATA[コードに関するブログ]]></title>
   <link href="http://kolab.github.io/atom.xml" rel="self"/>
   <link href="http://kolab.github.io/"/>
-  <updated>2015-07-20T12:29:59+09:00</updated>
+  <updated>2015-07-20T12:46:52+09:00</updated>
   <id>http://kolab.github.io/</id>
   <author>
     <name><![CDATA[管理人]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[TEST]]></title>
+    <title type="html"><![CDATA[最初の記事のつもり]]></title>
     <link href="http://kolab.github.io/blog/2015/07/20/test/"/>
     <updated>2015-07-20T10:10:42+09:00</updated>
     <id>http://kolab.github.io/blog/2015/07/20/test</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>どんなもん？</p>
 ]]></content>
   </entry>
   
